@@ -23,8 +23,8 @@ Support work taught me two things that carry straight into data science: **find 
 **Languages & data:** Python · SQL · pandas · NumPy  
 **Machine learning:** scikit-learn (pipelines, cross-validation, grid search) · classification · regression · clustering · feature engineering · model evaluation  
 **NLP & AI:** NLTK · VADER · TextBlob · Anthropic Claude API · prompt design for classification  
-**Visualisation & apps:** Matplotlib · Seaborn · Streamlit  
-**Workflow:** Jupyter · Git & GitHub · `.env`-based secrets handling
+**Visualisation & apps:** Matplotlib · Seaborn · Tableau · Power BI · Streamlit  
+**Workflow:** Jupyter · Git & GitHub
 
 ### 📚 Currently
 
